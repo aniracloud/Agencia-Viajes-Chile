@@ -16,9 +16,18 @@
 
 
 .quienes_somos{
-    height: 800px;
+    height: 100vh;
     background: black;
     
+}
+
+.fondo_quienes{
+    background: #17A2B8;
+}
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
 }
 
 
