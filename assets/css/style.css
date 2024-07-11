@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: "Raleway", sans-serif;
+}
+
+
+
+
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+.quienes_somos{
+    height: 800px;
+    background: black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbarNav{
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: regular;
+}
+
+
+#imagen_ros{
+    
+    background-image: url('../img/bg-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 630px;
+}
+
+
+#comida{
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+
+#mistrabajos{
+    font-size: 50px;
+}
+
+.trabajo{
+    background-color: #17A2B8;
+}
+
+
+#acerca_demi{
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+#foto #critica #blogera p {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h3{
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+.card-body h5{
+    font-family: "Raleway", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.card-body p{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+
+.card-body button{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+    font-weight: regular;
+}
+
+
+
+.card img{
+    height: 332px;
+
+}
+
+
+#boton_envio{
+ background: #17A2B8;
+ border: none;
+}
+
+footer{
+    height: 74px;
+}
