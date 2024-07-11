@@ -1,10 +1,10 @@
 $(document).ready(function() {
-    // executes when HTML-Document is loaded and DOM is ready
+   
   
   
     /*
     ################
-    Add navbar background color when scrolled
+    suma fondo al navbar
     */
     $(window).scroll(function() {
       if ($(window).scrollTop() > 56) {
@@ -13,7 +13,7 @@ $(document).ready(function() {
         $(".navbar").removeClass("bg-dark");
       }
     });
-    // If Mobile, add background color when toggler is clicked
+    // Si es móvil, agregue color de fondo cuando se haga clic en la Hmbuurgueza
     $(".navbar-toggler").click(function() {
       if (!$(".navbar-collapse").hasClass("show")) {
         $(".navbar").addClass("bg-dark");
@@ -25,8 +25,6 @@ $(document).ready(function() {
       }
     });
     // ############
-  
-    // document ready
   });
 
 
