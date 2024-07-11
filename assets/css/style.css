@@ -52,8 +52,11 @@
 
 
 
+.elemento-con-borde {
+    border-top: 1px solid; /* Define un borde de 1 píxel de grosor y sólido */
+    border-color: #2727275e; /* Puedes cambiar el color del borde al que prefieras */
 
-
+}
 
 
 
