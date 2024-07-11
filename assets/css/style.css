@@ -16,10 +16,16 @@
 
 
 .quienes_somos{
-    height: 100vh;
     background: black;
     
 }
+
+.contacto_fondo{
+    background: black;
+}
+
+
+
 
 .fondo_quienes{
     background: #17A2B8;
